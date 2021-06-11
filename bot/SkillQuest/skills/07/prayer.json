@@ -1,0 +1,19 @@
+{
+    "skill" : "Prayer",
+    "image" : "https://oldschool.runescape.wiki/images/f/f2/Prayer_icon.png?ca0dc",
+    "checkpoints" : [
+        75
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 70,
+            "gp/xp" : 15,
+            "notes" : ""
+        },
+        {   "start_level" : 70,
+            "end_level" : 99,
+            "gp/xp" : 10,
+            "notes" : ""
+        }
+    ]
+}

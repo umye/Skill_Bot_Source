@@ -1,0 +1,20 @@
+{
+    "skill" : "Fletching",
+    "image" : "https://i.imgur.com/knoKtcl.png",
+    "checkpoints" : [
+        55
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 55,
+            "gp/xp" : 17,
+            "notes" : ""
+        },
+        {
+            "start_level" : 55,
+            "end_level" : 99,
+            "gp/xp" : 8,
+            "notes" : ""
+        }
+    ]
+}

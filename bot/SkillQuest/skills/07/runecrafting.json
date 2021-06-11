@@ -1,0 +1,40 @@
+{
+    "skill" : "Runecrafting",
+    "image" : "https://i.imgur.com/fSiFxKY.png",
+    "checkpoints" : [
+        23,
+        50,
+        77
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 23,
+            "gp/xp" : 145,
+            "notes" : ""
+        },
+        {
+            "start_level" : 1,
+            "end_level" : 77,
+            "gp/xp" : 135,
+            "notes" : "Library"
+        },
+        {
+            "start_level" : 23,
+            "end_level" : 77,
+            "gp/xp" : 125,
+            "notes" : "Lavas No Imbue"
+        },
+        {
+            "start_level" : 23,
+            "end_level" : 99,
+            "gp/xp" : 75,
+            "notes" : "Lavas Imbue"
+        },
+        {
+            "start_level" : 77,
+            "end_level" : 99,
+            "gp/xp" : 65,
+            "notes" : "Zeah Blood/Soul"
+        }
+    ]
+}

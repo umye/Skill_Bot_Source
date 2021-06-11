@@ -1,0 +1,35 @@
+{
+    "skill" : "Melee",
+    "image" : "https://i.imgur.com/IWr7LYS.png",
+    "checkpoints" : [
+        50,
+        60,
+        90
+    ],
+    "prices" : [
+        {
+            "start_level" : 1,
+             "end_level" : 50,
+             "gp/xp" : 40,
+             "notes" : "Sand crabs"
+        },
+        {
+            "start_level" : 50,
+             "end_level" : 99,
+             "gp/xp" : 16,
+             "notes" : "Sand crabs"
+        },
+        {
+            "start_level" : 60,
+             "end_level" : 90,
+             "gp/xp" : 18,
+             "notes" : "NMZ"
+        },
+        {
+           "start_level" : 90,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : "NMZ"
+        }
+    ]
+}

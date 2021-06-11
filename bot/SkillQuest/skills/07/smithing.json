@@ -1,0 +1,27 @@
+{
+    "skill" : "Smithing",
+    "image" : "https://i.imgur.com/OBrn30I.png",
+    "checkpoints" : [
+        29,
+        40
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 40,
+            "gp/xp" : 40,
+            "notes" : ""
+        },
+        {
+            "start_level" : 40,
+            "end_level" : 99,
+            "gp/xp" :25,
+            "notes" : ""
+        },
+        {
+            "start_level" : 40,
+            "end_level" : 99,
+            "gp/xp" : 20,
+            "notes" : "blast furance with gauntlets"
+        }
+    ]
+}

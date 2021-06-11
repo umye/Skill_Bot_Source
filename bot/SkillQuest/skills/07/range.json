@@ -1,0 +1,51 @@
+{
+    "skill" : "Range",
+    "image": "https://i.imgur.com/dUnzE0Z.png",
+    "checkpoints" : [
+        50,
+        55,
+        75
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 50,
+            "gp/xp" : 40,
+            "notes" : "Sand Crabs"
+        },
+        {   "start_level" : 50,
+            "end_level" : 99,
+            "gp/xp" : 16,
+            "notes" : "Sand Crabs"
+        },
+        {   "start_level" : 50,
+            "end_level" : 75,
+            "gp/xp" : 18,
+            "notes" : "NMZ With MSB"
+        },
+        {   "start_level" : 75,
+            "end_level" : 99,
+            "gp/xp" : 13,
+            "notes" : "NMZ With Blowpipe"
+        },
+        {   "start_level" : 55,
+            "end_level" : 99,
+            "gp/xp" : 18,
+            "notes" : "Red Chins MM1"
+        },
+        {   "start_level" : 65,
+            "end_level" : 99,
+            "gp/xp" : 16,
+            "notes" : "Black Chins MM1"
+        },
+        {   "start_level" : 55,
+            "end_level" : 99,
+            "gp/xp" : 11,
+            "notes" : "Red Chins MM2"
+        },
+        {   "start_level" : 65,
+            "end_level" : 99,
+            "gp/xp" : 10,
+            "notes" : "Red Chins MM2"
+        }
+    ]
+}

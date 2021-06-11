@@ -1,0 +1,20 @@
+{
+    "skill" : "Herblore",
+    "image" : "https://i.imgur.com/QSXL1py.png",
+    "checkpoints" : [
+        50
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 50,
+            "gp/xp" : 20,
+            "notes" : ""
+        },
+        {
+            "start_level" : 50,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : ""
+        }
+    ]
+}

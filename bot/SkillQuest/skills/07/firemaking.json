@@ -1,0 +1,26 @@
+{
+    "skill" : "Firemaking",
+    "image" : "https://imgur.com/suLl6Gz.png",
+    "checkpoints" : [
+        50
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 60,
+            "gp/xp" : 40,
+            "notes" : ""
+        },
+        {
+            "start_level" : 60,
+            "end_level" : 99,
+            "gp/xp" : 10,
+            "notes" : ""
+        },
+        {
+            "start_level" : 50,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : "200K Per wintertodt crate"
+        }
+    ]
+}

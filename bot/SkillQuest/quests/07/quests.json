@@ -1,0 +1,897 @@
+{
+    "Black Knights' Fortress": {
+        "price": 0.6,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Cook's Assistant": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Demon Slayer": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Doric's Quest": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dragon Slayer": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Itemss",
+        "type": "normal"
+    },
+    "Ernest the Chicken": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Goblin Diplomacy": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Imp Catcher": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Misthalin Mystery": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Pirate's Treasure": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Prince Ali Rescue": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Romeo & Juliet": {
+        "price": 0.4,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Rune Mysteries": {
+        "price": 0.4,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Sheep Shearer": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Shield of Arrav": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Corsair Curse": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Knight's Sword": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Restless Ghost": {
+        "price": 0.3,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Vampire Slayer": {
+        "price": 0.3,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Witch's Potion": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "X Marks the Spot": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "A Soul's Bane": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "A Tail of Two Cats": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Taste of Hope": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Animal Magnetism": {
+        "price": 4.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Animal Magnetism + Tokens": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Another Slice of H.A.M.": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Between a Rock...": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Big Chompy Bird Hunting": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Biohazard": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Bone Voyage": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Cabin Fever": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Client of Kourend": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Clock Tower": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Cold War": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Contact!": {
+        "price": 5.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Creature of Fenkenstrain": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Darkness of Hallowvale": {
+        "price": 10.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Death Plateau": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Death to the Dorgeshuun": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Depths of Despair": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Desert Treasure": {
+        "notes": "1 Prayer / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 23.0,
+        "type": "normal"
+    },
+    "Desert Treasure": {
+        "notes": "43+ Prayer / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 7.0,
+        "type": "normal"
+    },
+    "Devious Minds": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dragon Slayer 2": {
+        "price": 21.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dragon Slayer 2": {
+        "price": 24.0,
+        "notes": "Low CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dragon Slayer 2": {
+        "price": 5.0,
+        "notes": "Boss Fight / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dream Mentor": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Druidic Ritual": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Dwarf Cannon": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Eadgar's Ruse": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Eagles' Peak": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Elemental Workshop 1": {
+        "price": 0.6,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Elemental Workshop 2": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Enakhra's Lament": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Enlightened Journey": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Enlightened Journey": {
+        "price": 1.0,
+        "notes": "1 Unlock / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Enlightened Journey": {
+        "price": 3.0,
+        "notes": "All Unlocks / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fairytale 1 - Growing Pains": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fairytale 2 - Cure a Queen": {
+        "price": 1.0,
+        "notes": "Fairy rings unlock / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fairytale 2 - Cure a Queen": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Family Crest": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fight Arena": {
+        "price": 0.6,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fishing Contest": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Forgettable Tale...": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Garden of Tranquillity": {
+        "price": 8.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Gertrude's Cat": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Ghosts Ahoy": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Ghosts Ahoy + Tokens": {
+        "price": 3.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Grim Tales": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Haunted Mine": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Hazeel Cult": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Heroes' Quest": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Holy Grail": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Horror from the Deep": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Horror from the Deep": {
+        "price": 5.0,
+        "notes": "+ BarCrawl / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Icthlarin's Little Helper": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "In Aid of the Myreque": {
+        "price": 6.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "In Search of the Myreque": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Jungle Potion": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "King's Ransom": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "King's Ransom": {
+        "price": 6.0,
+        "notes": "High CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "King's Ransom": {
+        "price": 8.0,
+        "notes": "low CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Legends' Quest": {
+        "price": 9.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Legends' Quest": {
+        "price": 11.0,
+        "notes": "Low CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Lost City": {
+        "price": 0.75,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Lunar Diplomacy": {
+        "price": 7.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Making Friends with My Arm": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Making History": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Merlin's Crystal": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Monk's Friend": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Monkey Madness 1": {
+        "notes": "1- Prayer / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 8.0,
+        "type": "normal"
+    },
+    "Monkey Madness 1": {
+        "notes": "43+ Prayer / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 5.0,
+        "type": "normal"
+    },
+    "Monkey Madness 2": {
+        "notes": "High CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 20,
+        "type": "normal"
+    },
+    "Monkey Madness 2": {
+        "notes": "Low CB / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 24,
+        "type": "normal"
+    },
+    "Mountain Daughter": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Mourning's Ends Part 1": {
+        "price": 6.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Mourning's Ends Part 2": {
+        "notes": " Agility +70 / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 15.0,
+        "type": "normal"
+    },
+    "Mourning's Ends Part 2": {
+        "notes": " Agility -70 / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 20.0,
+        "type": "normal"
+    },
+    "Murder Mystery": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "My Arm's Big Adventure": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "My Arm's Big Adventure": {
+        "price": 2.0,
+        "notes": "+ Favour / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Nature Spirit": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Observatory Quest": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Olaf's Quest": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "One Small Favour": {
+        "price": 8.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Plague City": {
+        "price": 0.85,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Priest in Peril": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Rag and Bone Man": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Rag and Bone Man 2": {
+        "price": 11.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Ratcatchers": {
+        "notes": " (Cat) / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 6.0,
+        "type": "normal"
+    },
+    "Ratcatchers": {
+        "notes": " (Kitten) / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 9.0,
+        "type": "normal"
+    },
+    "Recipe for Disaster Everything": {
+        "price": 0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Another Cook's Quest": {
+        "price": 0.4,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Defeating the Culinaromancer": {
+        "price": 0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Evil Dave": {
+        "notes": "Cat / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 3.0,
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Evil Dave": {
+        "notes": "Kitten / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 6.0,
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing King Awowogei": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing King Awowogei": {
+        "price": 4.5,
+        "notes": "+ 4X greegree gathering / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Pirate Pete": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Sir Amik Varze": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Skrach Uglogwee": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Goblin generals": {
+        "price": 0.7,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Lumbridge Guide": {
+        "price": 0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Mountain Dwarf": {
+        "price": 0.9,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Recruitment Drive": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Regicide": {
+        "notes": " 60+ Agil / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 7.0,
+        "type": "normal"
+    },
+    "Regicide": {
+        "notes": " 60- Agil / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 10.0,
+        "type": "normal"
+    },
+    "Roving Elves": {
+        "price": 3.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Royal Trouble": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Rum Deal": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Scorpion Catcher": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Scorpion Catcher": {
+        "price": 3.5,
+        "notes": "+ Barcrawl / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Sea Slug": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Shades of Mort'ton": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Shadow of the Storm": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Sheep Herder": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Shilo Village": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Spirits of the Elid": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Sins of the Father": {
+        "price": 18.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Swan Song": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Song of the elves": {
+        "price": 23,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tai Bwo Wannai Trio": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tale of the Righteous": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tears of Guthix": {
+        "price": 0.2,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Temple of Ikov": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Ascent of Arceuus": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Depths of Despair": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Dig Site": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Eyes of Glouphrie": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Feud": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Forsaken Tower": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Fremennik Isles": {
+        "price": 5.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Fremennik Trials": {
+        "price": 5.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Fremennik Exiles": {
+        "price": 5.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Giant Dwarf": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Golem": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Grand Tree": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Great Brain Robbery": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Hand in the Sand": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Lost Tribe": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Queen of Thieves": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Queen of Thieves": {
+        "price": 4.0,
+        "notes": "+ favour / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Slug Menace": {
+        "price": 3.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "The Tourist Trap": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Throne of Miscellania": {
+        "price": 3.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tower of Life": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tree Gnome Village": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Tribal Totem": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Troll Romance": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Troll Stronghold": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Underground Pass": {
+        "notes": "Agi +60 / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 7.0,
+        "type": "normal"
+    },
+    "Underground Pass": {
+        "notes": "Agi -60 / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "price": 9.0,
+        "type": "normal"
+    },
+    "Wanted!": {
+        "price": 2.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Watchtower": {
+        "price": 4.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Waterfall Quest": {
+        "price": 1.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "What Lies Below": {
+        "price": 1.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Witch's House": {
+        "price": 0.5,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Zogre Flesh Eaters": {
+        "price": 2.0,
+        "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    }
+}

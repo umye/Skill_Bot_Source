@@ -1,0 +1,4 @@
+discord.py
+networkx==2.4
+discord==1.0.1
+python-dotenv==0.13.0

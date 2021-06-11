@@ -1,0 +1,31 @@
+{
+    "name" : "Barbarian Assault",
+    "emoji" : "<:FighterTorso:829127047325941770>",
+    "prices" : [
+        {
+            "item" : "Fighter Torso",
+            "emoji" : "<:FighterTorso:829127047325941770>",
+            "price" : 15000000
+        },
+        {
+            "item" : "Fighter Hat",
+            "emoji" : "<:FighterHat:829127047300513802>",
+            "price" : 12000000
+        },
+        {
+            "item" : "Ranger hat",
+            "emoji" : "<:RangerHat:829127107023994891>",
+            "price" : 12000000
+        },
+        {
+            "item" : "Healer Hat",
+            "emoji" : "<:HealerHat:829127047255294013>",
+            "price" : 12000000
+        },
+        {
+            "item" : "Penance Skirt",
+            "emoji" : "<:PenanceSkirt:829127047292911656>",
+            "price" : 15000000
+        }
+    ]
+}

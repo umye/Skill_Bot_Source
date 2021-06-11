@@ -1,0 +1,27 @@
+{
+    "skill" : "Woodcutting",
+    "image" : "https://i.imgur.com/wuj7LPL.png",
+    "checkpoints" : [
+        35,
+        90
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 35,
+            "gp/xp" : 45,
+            "notes" : ""
+        },
+        {
+            "start_level" : 35,
+            "end_level" : 90,
+            "gp/xp" : 25,
+            "notes" : ""
+        },
+        {
+            "start_level" : 90,
+            "end_level" : 99,
+            "gp/xp" : 8,
+            "notes" : ""
+        }
+    ]
+}

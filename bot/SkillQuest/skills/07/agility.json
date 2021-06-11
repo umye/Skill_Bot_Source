@@ -1,0 +1,31 @@
+{
+    "skill" : "Agility",
+    "image" : "https://i.imgur.com/zflukPp.png",
+    "checkpoints" : [
+        48,
+        60,
+        90
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 60,
+            "gp/xp" : 75,
+            "notes" : ""
+        },
+        {   "start_level" : 60,
+            "end_level" : 90,
+            "gp/xp" : 45,
+            "notes" : ""
+        },
+        {   "start_level" : 48,
+            "end_level" : 90,
+            "gp/xp" : 45,
+            "notes" : "Wilderness"
+        },
+        {   "start_level" : 90,
+            "end_level" : 99,
+            "gp/xp" : 33,
+            "notes" : "Ardougne"
+        }
+    ]
+}

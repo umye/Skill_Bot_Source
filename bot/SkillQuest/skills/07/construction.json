@@ -1,0 +1,28 @@
+{
+    "skill" : "Construction",
+    "image" :  "https://i.imgur.com/XRTvQ9j.png",
+    "checkpoints" : [
+        33,
+        52,
+        73
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 33,
+            "gp/xp" : 52,
+            "notes" : ""
+        },
+        {
+            "start_level" : 33,
+            "end_level" : 52,
+            "gp/xp" : 25,
+            "notes" : ""
+        },
+        {
+            "start_level" : 52,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : ""
+        }
+    ]
+}

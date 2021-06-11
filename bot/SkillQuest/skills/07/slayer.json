@@ -1,0 +1,20 @@
+{
+    "skill" : "Slayer",
+    "image" : "https://i.imgur.com/o2Do2bb.png",
+    "checkpoints" : [
+        50
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 50,
+            "gp/xp" : 140,
+            "notes" : ""
+        },
+        {
+            "start_level" : 50,
+            "end_level" : 99,
+            "gp/xp" : 110,
+            "notes" : ""
+        }
+    ]
+}

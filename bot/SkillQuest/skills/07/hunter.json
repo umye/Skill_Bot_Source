@@ -1,0 +1,43 @@
+{
+    "skill" : "Hunter",
+    "image" : "https://i.imgur.com/614axVs.png",
+    "checkpoints" : [
+        29,
+        60,
+        63,
+        80
+
+    ],
+    "prices" : [
+        {
+            "start_level" : 1,
+            "end_level" : 29,
+            "gp/xp" : 80,
+            "notes" : ""
+        },
+        {
+            "start_level" : 29,
+            "end_level" : 60,
+            "gp/xp" : 70,
+            "notes" : "Salamander"
+        },
+        {
+            "start_level" : 60,
+            "end_level" : 80,
+            "gp/xp" : 30,
+            "notes" : "Salamanders"
+        },
+        {
+            "start_level" : 63,
+            "end_level" : 80,
+            "gp/xp" : 35,
+            "notes" : "Chins"
+        },
+        {
+            "start_level" : 80,
+            "end_level" : 99,
+            "gp/xp" : 28,
+            "notes" : "Chins"
+        }
+    ]
+}

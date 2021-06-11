@@ -1,0 +1,25 @@
+{
+    "skill" : "Cooking",
+    "image" : "https://i.imgur.com/nbZwkiv.png",
+    "checkpoints" : [
+        35
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 35,
+            "gp/xp" : 30,
+            "notes" : ""
+        },
+        {
+            "start_level" : 35,
+            "end_level" : 99,
+            "gp/xp" : 22,
+            "notes" : ""
+        },
+        {   "start_level" : 35,
+            "end_level" : 99,
+            "gp/xp" : 15,
+            "notes" : "Wines"
+        }
+    ]
+}

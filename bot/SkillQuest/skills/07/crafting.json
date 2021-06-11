@@ -1,0 +1,36 @@
+{
+
+    "skill" : "Crafting",
+    "image" : "https://i.imgur.com/rQIKHyi.png",
+    "checkpoints" : [
+        46,
+        54,
+        84
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 99,
+            "gp/xp" : 33,
+            "notes" : "Gems"
+        },
+        {
+            "start_level" : 46,
+            "end_level" : 99,
+            "gp/xp" : 25,
+            "notes" : "Glassblowing"
+        },
+        {
+            "start_level" : 54,
+            "end_level" : 99,
+            "gp/xp" : 17,
+            "notes" : "Battlestaves"
+        },
+        {
+            "start_level" : 84,
+            "end_level" : 99,
+            "gp/xp" : 8,
+            "notes" : "Black d'hide bodies"
+        }
+
+    ]
+}

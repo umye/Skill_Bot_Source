@@ -1,0 +1,41 @@
+{
+    "skill" : "Farming",
+    "image" : "https://i.imgur.com/2xWPRzw.png",
+    "checkpoints" : [
+        34,	
+        45,
+        54,
+        60,
+        74,
+	    75
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 45,
+            "gp/xp" : 55,
+            "notes" : ""
+        },
+        {   "start_level" : 45,
+            "end_level" : 99,
+            "gp/xp" : 30,
+            "notes" : ""
+        },
+        {   "start_level" : 34,
+            "end_level" : 99,
+            "gp/xp" : 160,
+            "notes" : "Tithe"
+        },
+        {
+            "start_level" : 54,
+            "end_level" : 99,
+            "gp/xp" : 66,
+            "notes" : "Tithe"
+        },
+        {
+            "start_level" : 74,
+            "end_level" : 99,
+            "gp/xp" : 45,
+            "notes" : "Tithe"
+	}
+    ]
+}
